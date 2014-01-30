@@ -1,4 +1,2 @@
----h1-lol
-=========
-
-">&lt;h1>lol
+> hello <a name="n"
+> href="javascript:alert('xss')">*you*</a>
